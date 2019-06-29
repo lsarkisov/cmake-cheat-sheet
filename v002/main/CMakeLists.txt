@@ -1,0 +1,5 @@
+include_directories(../hello)
+
+add_executable(MyApp main.cpp)
+
+target_link_libraries(MyApp Hello)

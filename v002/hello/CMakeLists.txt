@@ -1,0 +1,1 @@
+add_library(Hello STATIC hello.cpp)
